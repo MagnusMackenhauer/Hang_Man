@@ -1,0 +1,14 @@
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/bin/Debug/net9.0/Hang_Man_Terminal1
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/bin/Debug/net9.0/Hang_Man_Terminal1.deps.json
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/bin/Debug/net9.0/Hang_Man_Terminal1.runtimeconfig.json
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/bin/Debug/net9.0/Hang_Man_Terminal1.dll
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/bin/Debug/net9.0/Hang_Man_Terminal1.pdb
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.AssemblyInfoInputs.cache
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.AssemblyInfo.cs
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.csproj.CoreCompileInputs.cache
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.dll
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/refint/Hang_Man_Terminal1.dll
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.pdb
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/Hang_Man_Terminal1.genruntimeconfig.cache
+/Users/Magnus/Desktop/Projects/Hang_Man_Terminal1/Hang_Man_Terminal1/obj/Debug/net9.0/ref/Hang_Man_Terminal1.dll
