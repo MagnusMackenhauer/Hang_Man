@@ -1,2 +1,1 @@
-# Hang_Man
-# Hang_Man
+# I created a hang man game played from the terminal
